@@ -9,4 +9,3 @@ namespace Ch_21_Exercise
     public abstract class AbstractEntity
     {
     }
-}

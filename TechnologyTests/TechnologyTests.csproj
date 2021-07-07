@@ -13,8 +13,4 @@
     <PackageReference Include="coverlet.collector" Version="3.0.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\Ch-21-Exercise\Ch-21-Exercise\Technology.csproj" />
-  </ItemGroup>
-
 </Project>
